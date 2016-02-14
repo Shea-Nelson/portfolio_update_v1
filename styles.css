@@ -171,6 +171,11 @@ a.social:hover {
 .speaker {
   text-align: center;
 }
+.sectionImg {
+  float: left;
+  height: 42px;
+  margin-right: 16px;
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
